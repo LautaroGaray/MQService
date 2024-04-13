@@ -1,0 +1,6 @@
+@MQBusService_HostAddress = http://localhost:5067
+
+GET {{MQBusService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
